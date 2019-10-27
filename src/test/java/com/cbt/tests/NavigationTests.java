@@ -16,10 +16,6 @@ public class NavigationTests {
 
         // 3- Test 1 with SAFARI
         navigationTest("safari");
-
-
-
-
     }
 
 
